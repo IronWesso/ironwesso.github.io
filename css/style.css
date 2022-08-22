@@ -1,0 +1,10 @@
+#Contacto{
+    font-family: 'Arial Narrow', cursive; 
+   margin-top: 1%;
+   
+}
+
+#Contacto a{
+    color: rgb(15, 18, 214);
+    text-decoration: none;
+}
